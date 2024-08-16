@@ -1,0 +1,114 @@
+{
+    "followers":[
+
+{
+    "numero": "1987",
+    "social": "@nathanf",
+    "followers": "Followers",
+    "imagem": "./src/assets/images/icon-facebook.svg",
+    "upSubscribers": "12 Today",
+    "color": "#028AE3",
+    "colorUpDonw": "#3ECEAE",
+    "donwup": "+"
+  },
+
+  {
+    "numero": "1044",
+    "social": "@nathanf",
+    "followers": "Followers",
+    "imagem": "./src/assets/images/icon-twitter.svg",
+    "upSubscribers": "99 Today",
+    "color": "#03A3ED",
+    "colorUpDonw": "#3ECEAE",
+    "donwup": "+"
+  },
+  {
+    "numero": "11K",
+    "social": "@realnathanf",
+    "followers": "Followers",
+    "imagem":"./src/assets/images/icon-instagram.svg" ,
+    "upSubscribers": "1099 Today",
+    "color": "#e24b91",
+    "colorUpDonw": "#3ECEAE",
+    "donwup": "+"
+  },
+  {
+    "numero": "8239",
+    "social": "Nathan F.",
+    "followers": "Subscribers",
+    "imagem": "./src/assets/images/icon-youtube.svg",
+    "upSubscribers": "144 Today",
+    "color": "#D90427",
+    "colorUpDonw": "#E20C0C",
+    "donwup": "-"
+  }],
+
+  
+
+        "engagement": [
+             {
+            "nome": "Page Views",
+            "followers": "87",
+            "imagem":"./src/assets/images/icon-facebook.svg" ,
+            "upSubscribers": "3%",
+            "colorUpDonw": "#3ECEAE",
+            "donwup": "+"
+          },
+          {
+            "nome": "Likes",
+            "followers": "52",
+            "imagem": "./src/assets/images/icon-facebook.svg",
+            "upSubscribers": "2%",
+            "colorUpDonw": "#E20C0C",
+            "donwup": "-"
+          },
+          {
+            "nome": "Likes",
+            "followers": "5462",
+            "imagem": "./src/assets/images/icon-instagram.svg",
+            "upSubscribers": "2257%",
+            "colorUpDonw": "#3ECEAE",
+            "donwup": "+"
+          },
+          {
+            "nome": "Profile Views",
+            "followers": "52k",
+            "imagem": "./src/assets/images/icon-instagram.svg",
+            "upSubscribers": "1375%",
+            "colorUpDonw": "#3ECEAE",
+            "donwup": "+"
+          },
+          {
+            "nome": "Retweets",
+            "followers": "117",
+            "imagem": "./src/assets/images/icon-twitter.svg",
+            "upSubscribers": "303%",
+            "colorUpDonw": "#3ECEAE",
+            "donwup": "+"
+          },
+          {
+            "nome": "Likes",
+            "followers": "507",
+            "imagem":"./src/assets/images/icon-twitter.svg" ,
+            "upSubscribers": "5503%",
+            "colorUpDonw": "#3ECEAE",
+            "donwup": "+"
+          },
+          {
+            "nome": "Likes",
+            "followers": "107",
+            "imagem": "./src/assets/images/icon-youtube.svg",
+            "upSubscribers": "19%",
+            "colorUpDonw": "#E20C0C",
+            "donwup": "-"
+          },
+          {
+            "nome": "Total Views",
+            "followers": "1407",
+            "imagem":"./src/assets/images/icon-youtube.svg" ,
+            "upSubscribers": "12%",
+            "colorUpDonw": "#E20C0C",
+            "donwup": "-"
+          }
+    ]
+  }
